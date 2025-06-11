@@ -1,2 +1,2 @@
 this is my file 2 for txt
-Add new content in file
+Add new content in file.
